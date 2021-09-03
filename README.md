@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwapnilNawale18
 - 👀 I’m interested in challanges
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me swapnilnawale18@gmail.com
 
 <!---
