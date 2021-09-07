@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Swapnil Nawale
 - 👀 I’m interested in challenges
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & T-SQL
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with some superhuman
 - 💬 Ask me about Latest Tech
